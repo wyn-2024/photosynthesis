@@ -23,6 +23,7 @@ The `src` folder contains scripts and notebooks used for:
 - fitting An–Ci curves
 - estimating Vcmax, J, Rd, gm, Γ*, Vcmax25, J25, R2 and RMSE related parameters
 - figure generation
-
+- The other methods not shown all rely on the R packages of the corresponding methods and can be directly called
 ## Notes
 File and folder names follow the experimental grouping used in this project.
+If you need to discuss, please contact weiyingnan1998@163.com
