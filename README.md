@@ -4,16 +4,13 @@
 This repository contains data and source code for photosynthesis parameter estimation and analysis.
 
 ## Repository structure
-- `data/`: raw and processed data for different species and experiments
+- `data/`: A-Ci data
 - `src/`: source code and notebooks for parameter fitting and analysis
 
 ## Data
 The `data` folder includes datasets for:
 - soybean2019
 - soybean2020
-- Lolium perenne
-- Trifolium pratense
-- Triticum aestivum
 - winter wheat
 - An-Q
 The An-Q folder contains light-response curve data, whereas the other folders contain CO2-response curve data.
