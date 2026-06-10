@@ -12,8 +12,6 @@ The `data` folder includes datasets for:
 - soybean2019
 - soybean2020
 - winter wheat
-- An-Q
-The An-Q folder contains light-response curve data, whereas the other folders contain CO2-response curve data.
 
 ## Code
 The `src` folder contains scripts and notebooks used for:
